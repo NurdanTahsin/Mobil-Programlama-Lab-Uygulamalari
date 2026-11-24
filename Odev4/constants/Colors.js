@@ -1,0 +1,1 @@
+export const Colors={light:{background:'#FFF4DF',surface:'#F7F1FF',text:'#30233B',title:'#60356F',muted:'#766A80',primary:'#7C4D9E',border:'#D8C8E5'},dark:{background:'#FFF4DF',surface:'#F7F1FF',text:'#30233B',title:'#60356F',muted:'#766A80',primary:'#7C4D9E',border:'#D8C8E5'}};

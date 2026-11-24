@@ -1,0 +1,1 @@
+export const Colors={light:{background:'#FFF4DF',uiBackground:'#F7F1FF',text:'#30233B',muted:'#766A80',primary:'#7C4D9E',accent:'#E9DDF2',border:'#D8C8E5'},dark:{background:'#FFF4DF',uiBackground:'#F7F1FF',text:'#30233B',muted:'#766A80',primary:'#7C4D9E',accent:'#E9DDF2',border:'#D8C8E5'}};

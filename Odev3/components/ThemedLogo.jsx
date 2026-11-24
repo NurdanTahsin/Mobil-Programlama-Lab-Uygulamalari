@@ -1,0 +1,2 @@
+import { Text, useColorScheme, View } from 'react-native'; import { Colors } from '../constants/Colors';
+export default function ThemedLogo(){const theme=Colors[useColorScheme()]??Colors.light;return <View style={{height:58,width:58,borderRadius:18,backgroundColor:theme.primary,alignItems:'center',justifyContent:'center'}}><View style={{width:22,height:22,borderRadius:11,borderWidth:5,borderColor:theme.surface}}/></View>}
