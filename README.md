@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  Bu depo, Mobil Programlama laboratuvarlarında hazırlanan 7 uygulamayı; öğretici örneklerden çok ekranlı mobil uygulamalara kadar tek bir çalışma alanında toplar.
+  Bu depo, Mobil Programlama laboratuvarlarında hazırlanan sunum ödevini ve 2–7. haftalara ait React Native uygulamalarını tek bir çalışma alanında toplar.
 </p>
 
 ---
 
 ## Hızlı Başlangıç
 
-Her ödev bağımsız bir Expo projesidir.
+Ödev 2–7 bağımsız Expo projeleridir. Ödev 1 bir uygulama değil, React ve React Native sunum slaytıdır.
 
 ```bash
 cd Odev2
@@ -23,7 +23,7 @@ Telefon veya emülatör üzerinde uygulama deneyimlerini inceleyebilir, farklı 
 
 | Ödev | Uygulama | Ana Konular |
 |---:|---|---|
-| [1](./Odev1/README.md) | Mor Tema | Tema bileşeni, açık/koyu renkler |
+| [1](./Odev1(takim)/React%20-%20React%20Native.pptx) | React ve React Native Sunumu | Temel kavramlar, farklar, mimari |
 | [2](./Odev2/README.md) | Kişisel Tanıtım Kartı | View, Text, Image, Pressable, Ionicons |
 | [3](./Odev3/README.md) | Teknik Destek Yönetim Paneli | Flexbox, FlatList, filtreleme, state |
 | [4](./Odev4/README.md) | Akıllı Arıza Talep Yönetimi | Form, doğrulama, uzun basma, silme |
@@ -208,13 +208,21 @@ DummyJSON Products API üzerinden ürünleri getiren, ürün detaylarını göst
 
 ---
 
-# Ödev 1 — Mor Tema
+# Ödev 1 — React ve React Native Sunumu
 
-**Klasör:** [Odev1](./Odev1)
+**Klasör:** [Odev1(takim)](./Odev1(takim))
 
-React Native’ın açık ve koyu temasını algılayan temel tema bileşeni örneği. `ThemedView`, tema renklendirme ve cihaz temasına göre arka plan uyumunu gösterir.
+Bu ödev uygulamalı bir Expo projesi değil, takım olarak hazırlanan React ve React Native sunumudur.
 
-[Odev 1 README](./Odev1/README.md) · [Kaynak kod](./Odev1/app/index.jsx)
+### İçerik
+
+- React ve React Native kavramları
+- React ile React Native arasındaki temel farklar
+- React bileşen yapısı
+- Mobil kullanıcı arayüzüne genel giriş
+- Sunum dosyası ve takım çalışması çıktısı
+
+[Sunum dosyasını aç](./Odev1(takim)/React%20-%20React%20Native.pptx)
 
 ---
 
